@@ -107,7 +107,7 @@ nmap <F1> <Esc>
 " -----------------------------------------------------------------
 " custom crap
 "------------------------------------------------------------------
-let g:Powerline_symbols = 'fancy'
+" let g:Powerline_symbols = 'fancy'
 filetype plugin indent on
 " ctrl p crap
 map <Leader>t :CtrlP<CR>
