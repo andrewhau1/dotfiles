@@ -170,3 +170,5 @@ set foldlevel=1               "need to play around with this setting
 " nothing here yet
 "
 set encoding=utf8
+:nnoremap <leader>m :silent !open -a Marked.app '%:p'<cr>
+
