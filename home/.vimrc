@@ -30,7 +30,6 @@ Bundle 'scrooloose/nerdtree'
 Bundle 'johnallen3d/vim-colorschemes'
 Bundle 'juvenn/mustache.vim'
 Bundle 'rodjek/vim-puppet'
-Bundle 'jpalardy/vim-slime'
 " end vundle
 
 set nobackup
